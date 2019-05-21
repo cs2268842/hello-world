@@ -1,2 +1,1 @@
-# hello-world
-github入门使用教程
+你好,github,啦啦啦啦啦啦啦!
